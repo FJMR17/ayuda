@@ -10,7 +10,7 @@
 <body>
 <div id="wrap">
 <div id="header">
-<h1 id="sitename"><a href="#">La Flor Feliz</a></h1>
+<h1 id="sitename"><a href="index.php">La Flor Feliz</a></h1>
 </div>
 <div id="page"><div class="inner_copy"></div>
 <?php include("menu.php"); ?>

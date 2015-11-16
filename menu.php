@@ -10,7 +10,7 @@
 <div id="sidemenu">
 <h2>Menu</h2>
 <ul>
-<li class="active"><a href="#">INICIO</a> </li>
+<li><a href="index.php">INICIO</a> </li>
 <li><a href="armaProducto.php">ARMA TU PRODUCTO</a></li>
 <li><a href="catalogo.php">CATALOGO</a></li>
 <li><a href="carrito.php">CARRITO</a></li>
