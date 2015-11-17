@@ -17,14 +17,28 @@ table{
 	border:1px solid black; /*  Esto despues se lo quitamos, por ahora solo es para 
 							ir identificando cada celda*/
 	border-spacing: ;			
-	border-spacing: 10px;	/*Espacio que separa a las celdas de la tabla*/
+	border-spacing: 5px;	/*Espacio que separa a las celdas de la tabla*/
 	width:630px;			/*El ancho de la tabla*/
 }
 
 /*Estas serán las caracteristicas de la etiqueta td la llame así "celda"
   la pondre de diferente color solo para diferenciarla del marco de la tabla*/
 #celda{
+	text-align: center;
 	border: 1px solid black;
 	height: 101px;
-	padding: 10px;
+	padding: 5px;
+}
+
+#armaArre{
+	background:pink;
+	color: white;
+	float: right;
+	height: 100px;
+	text-align: center;
+	width: 650px;
+}
+
+#imagen{
+	width: 140px;
 }
