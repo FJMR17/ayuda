@@ -13,17 +13,7 @@
 <div id="page"><div class="inner_copy"></div>
 <?php include("menu.php"); ?>
 
-
-
-<p>
-
-
-INICIO DE CODIGO
-
-
-
-</p>
-
+<?php include("inicio/tabla.php"); ?>
 
 
 </div>
