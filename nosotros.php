@@ -18,7 +18,36 @@
 <p>
 
 
-nosotros
+<button  onclick="mision()">Mision</button>
+<button  onclick="vision()">Vision</button>
+<button  onclick="valores()">Valores</button>
+
+<div id="hola1">MIIPSPFOOPDSOFOSDOFPDSP</div>
+<div id="hola1">MIIPSPFOOPDSOFOSDOFPDSP</div>
+
+	<script type="text/javascript">
+
+		function mision(){
+
+			  	document.getElementById("hola1").innerHTML = "mision";
+		}
+
+
+		function vision(){
+
+				document.getElementById("hola1").innerHTML = "vision";
+
+		}
+
+
+		function valores(){
+
+				document.getElementById("hola1").innerHTML = "valores";
+
+		}
+
+
+    </script>
 
 
 
