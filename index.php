@@ -15,6 +15,8 @@
 
 <?php include("inicio/tabla.php"); ?>
 
+<?php echo "HOLA :)" ?>
+
 
 </div>
 </div>
