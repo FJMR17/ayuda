@@ -13,7 +13,7 @@
 <div id="page"><div class="inner_copy"></div>
 <?php include("menu.php"); ?>
 
-<?php include("inicio/tabla.php"); ?>
+<?php //  include("inicio/tabla.php"); ?>
 
 <?php echo "HOLA :)" ?>
 
